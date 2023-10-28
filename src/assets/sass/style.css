@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "BebasNeue";
+    font-weight: 400;
+    src: url("../../assets/fonts/BebasNeueReg.ttf");
+}
+
+* {
+    font-family: 'BebasNeue';
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+}
+
+:root {
+    --text-color: #fff;
+    --bg-color: #000;
+    --main-color: #ffa343;
+
+    --h1-font: 6rem;
+    --h2-font: 2rem;
+    --p-font: 1rem;
+}
+
+body {
+    color: var(--text-color);
+    background: var(--bg-color);
+}
+
+@media(max-width: 1050px) {
+    .feature-content {
+        gap: 1.5rem;
+    }
+    .holiday {
+        gap: 3rem;
+    }
+    .Culture {
+        gap: 3rem;
+    }
+}

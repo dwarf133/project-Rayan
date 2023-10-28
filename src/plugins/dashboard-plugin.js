@@ -11,6 +11,8 @@ import GlobalDirectives from './globalDirectives';
 // Sidebar on the right. Used as a local plugin in DashboardLayout.vue
 import SideBar from '@/components/SidebarPlugin';
 
+import VueSplide from '@splidejs/vue-splide';
+
 // element ui language configuration
 import lang from 'element-ui/lib/locale/lang/en';
 import locale from 'element-ui/lib/locale';
@@ -40,6 +42,7 @@ export default {
     Vue.use(Notifications);
     Vue.use(BootstrapVue);
     Vue.use(IconsPlugin);
+    Vue.use(VueSplide);
     configure({
       classes: {
         valid: 'is-valid',

@@ -1,9 +1,15 @@
 import DashboardLayout from '@/views/Layout/DashboardLayout.vue';
+import LandingLayout from "@/views/Layout/LandingLayout.vue";
 import AuthLayout from '@/views/Pages/AuthLayout.vue';
 
 import NotFound from '@/views/NotFoundPage.vue';
 
 const routes = [
+  {
+    path: '/',
+    template: LandingLayout,
+    component: () => import(/* webpackChunkName: "demo" */ '../views/Landing.vue')
+  },
   {
     path: '/',
     redirect: 'dashboard',
@@ -56,7 +62,7 @@ const routes = [
       },
       { path: '*', component: NotFound }
     ]
-  }
+  },
 ];
 
 export default routes;

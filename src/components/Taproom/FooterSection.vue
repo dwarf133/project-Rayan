@@ -1,5 +1,5 @@
 <template>
-    <section class="footer">
+    <section class="footer" style="color: #ffa343;">
         <div class="footer-box">
             <h3>Контакты</h3>
             <a href="tel:+79058481865">8 (905) 848-18-65</a>

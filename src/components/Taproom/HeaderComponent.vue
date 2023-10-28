@@ -6,7 +6,7 @@
 
     <ul :class="[{'open': clickedMenu}, 'navbar']">
       <li><a href="#possibilities">Возможности</a></li>
-      <li><a href="#holiday">Тарифы</a></li>
+      <li><a href="#shop">Тарифы</a></li>
       <li><a href="#events">Внедрения</a></li>
       <li><a href="#shop">Отзывы</a></li>
       <li><a href="#contacts">Поддержка</a></li>

@@ -1,10 +1,10 @@
 <template>
     <section class="tour" id="shop">
         <div class="center-text">
-            <h2>Магазин мерча</h2>
+            <h2 style="color: #ffa343;">Тарифы</h2>
         </div>
         <div class="tour-text">
-            <p>Закажи мерч медоварни "Степь и Ветер" и ТАПРУМА в любую точку мира.</p>
+            <p>Тут можно выбрать тариф</p>
         </div>
 
         <div class="tour-content">

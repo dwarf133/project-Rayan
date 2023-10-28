@@ -31,7 +31,7 @@ section {
     position: relative;
     height: 100vh;
     width: 100%;
-    background-image: linear-gradient(to left, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)), url('../../taproom/assets/img/taproom.png');
+    background-image: linear-gradient(to left, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)), url('../../taproom/assets/img/mainbg.jpg');
     background-size: cover;
     /*background-attachment: fixed;*/
     background-position: bottom center;

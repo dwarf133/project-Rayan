@@ -1,7 +1,7 @@
 <template>
     <section class="tour" id="events">
         <div class="center-text">
-            <h2>События в тапруме</h2>
+            <h2 style="color: #ffa343;">События в тапруме</h2>
         </div>
         <div class="tour-text">
             <p>

@@ -1,7 +1,7 @@
 @font-face {
     font-family: "BebasNeue";
     font-weight: 400;
-    src: url("../../assets/fonts/BebasNeueReg.ttf");
+    src: url("../../../taproom/assets/fonts/BebasNeueReg.ttf");
 }
 
 * {

@@ -34,7 +34,7 @@
 </script>
 
 <style scoped>
-@import "../../assets/sass/style.css";
+@import "../../taproom/assets/sass/style.css";
 
 section {
     padding: 70px 17% 60px;

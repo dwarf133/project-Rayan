@@ -1,9 +1,5 @@
 <template>
-    <section class="holiday" id="holiday">
-        <div class="holiday-img">
-            <img src="../../taproom/assets/img/danila.png" alt="barrels">
-        </div>
-
+    <section class="holiday" id="possibilities">
         <div class="holiday-text">
             <h2>Возможности</h2>
             <p>

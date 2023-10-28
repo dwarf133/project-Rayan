@@ -9,7 +9,7 @@
         </div>
 
         <div class="Culture-img">
-            <img src="../../assets/img/barrels2.png" alt="c1">
+            <img src="../../taproom/assets/img/barrels2.png" alt="c1">
         </div>
     </section>
 </template>
@@ -19,7 +19,7 @@
 </script>
 
 <style scoped>
-@import "../../assets/sass/style.css";
+@import "../../taproom/assets/sass/style.css";
 
 section {
     padding: 70px 17% 60px;

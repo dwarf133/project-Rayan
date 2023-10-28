@@ -11,7 +11,7 @@
 </script>
 
 <style scoped>
-@import "../../assets/sass/style.css";
+@import "../../taproom/assets/sass/style.css";
 
 .copyright {
     background: #000;

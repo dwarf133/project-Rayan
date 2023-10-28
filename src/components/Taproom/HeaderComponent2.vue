@@ -48,7 +48,7 @@ export default {
 </script>
 
 <style scoped>
-@import "../../assets/sass/style.css";
+@import "../../taproom/assets/sass/style.css";
 .header {
     position: fixed;
     top: 0;

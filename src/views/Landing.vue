@@ -2,6 +2,7 @@
   <div>
     <header-component></header-component>
     <home-section></home-section>
+    <possibilities-section></possibilities-section>
     <holiday-section></holiday-section>
     <culture-section></culture-section>
     <!--<culture-section2></culture-section2>-->
@@ -19,6 +20,7 @@
 import HeaderComponent from "@/components/Taproom/HeaderComponent.vue";
 import HomeSection from "@/components/Taproom/HomeSection.vue";
 import FeatureSection from "@/components/Taproom/FeatureSection.vue";
+import PossibilitiesSection from "@/components/Taproom/PossibilitiesSection.vue";
 import HolidaySection from "@/components/Taproom/HolidaySection.vue";
 import HolidaySection2 from "@/components/Taproom/HolidaySection2.vue";
 import TourSection from "@/components/Taproom/TourSection.vue";
@@ -32,6 +34,7 @@ import TourSection2 from "@/components/Taproom/TourSection2.vue";
   export default {
     components: {
       HomeSection,
+      PossibilitiesSection,
       HeaderComponent,
       FeatureSection,
       HolidaySection,

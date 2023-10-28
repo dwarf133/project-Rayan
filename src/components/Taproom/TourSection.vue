@@ -9,19 +9,19 @@
 
         <div class="tour-content">
             <div class="box" @click="toCatalog">
-                <img src="../../assets/img/tshirt1.png" alt="t1">
+                <img src="../../taproom/assets/img/tshirt1.png" alt="t1">
                 <h6>Крутейшая футболка с единорогом</h6>
                 <h4>Футболки</h4>
             </div>
 
             <div class="box" @click="toCatalog">
-                <img src="../../assets/img/tshirt2.png" alt="t2">
+                <img src="../../taproom/assets/img/tshirt2.png" alt="t2">
                 <h6>АйПиОу браслет</h6>
                 <h4>Браслет</h4>
             </div>
 
             <div class="box" @click="toCatalog">
-                <img src="../../assets/img/tshirt3.png" alt="t3">
+                <img src="../../taproom/assets/img/tshirt3.png" alt="t3">
                 <h6>Изогнутый стакан с единорожкой</h6>
                 <h4>Бокалы</h4>
             </div>
@@ -44,7 +44,7 @@ export default {
 </script>
 
 <style scoped>
-@import "../../assets/sass/style.css";
+@import "../../taproom/assets/sass/style.css";
 
 section {
     padding: 70px 17% 60px;

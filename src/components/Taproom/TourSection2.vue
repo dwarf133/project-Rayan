@@ -12,27 +12,27 @@
 
         <div class="tour-content">
             <div class="box">
-                <img src="../../assets/img/fun1.png" alt="t1">
+                <img src="../../taproom/assets/img/fun1.png" alt="t1">
                 <div class="content">
                     <p>Лекция про вкусы: от оренбургского бармена николая карпова <br> 19 авг 2023</p>
                 </div>
             </div>
 
             <div class="box">
-                <img src="../../assets/img/fun2.png" alt="t2">
+                <img src="../../taproom/assets/img/fun2.png" alt="t2">
                 <div class="content">
                     <p>Пивная йога в летнике тапрума <br> 23 авг 2023</p>
                 </div>
             </div>
 
             <div class="box">
-                <img src="../../assets/img/fun3.png" alt="t3">
+                <img src="../../taproom/assets/img/fun3.png" alt="t3">
                 <div class="content">
                     <p>Фестиваль "Степная история" <br> 26 пивоварен, сидрерий и медоварен со всей россии <br> 18 - 20 августа 2023</p>
                 </div>
             </div>
             <div class="box">
-                <img src="../../assets/img/fun4.png" alt="t4">
+                <img src="../../taproom/assets/img/fun4.png" alt="t4">
                 <div class="content">
                     <p>Здесь могла быть ваша реклама!</p>
                 </div>
@@ -51,7 +51,7 @@
 </script>
 
 <style scoped>
-@import "../../assets/sass/style.css";
+@import "../../taproom/assets/sass/style.css";
 
 section {
     padding: 70px 17% 60px;

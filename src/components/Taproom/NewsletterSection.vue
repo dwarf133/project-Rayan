@@ -19,7 +19,7 @@
 </script>
 
 <style scoped>
-@import "../../assets/sass/style.css";
+@import "../../taproom/assets/sass/style.css";
 
 section {
     padding: 70px 17% 60px;
@@ -27,7 +27,7 @@ section {
 
 .newsletter {
     /*background: #000;*/
-    background-image: linear-gradient(to left, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)), url('../../assets/img/newsletter.jpg');
+    background-image: linear-gradient(to left, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)), url('../../taproom/assets/img/newsletter.jpg');
     /*background-attachment: fixed;*/
     background-position: center;
     background-size: cover;

@@ -12,13 +12,13 @@
 
         <Splide class="Culture-img">
             <SplideSlide>
-                <img src="../../assets/img/bar.png" alt="c1">
+                <img src="../../taproom/assets/img/bar.png" alt="c1">
             </SplideSlide>
             <SplideSlide>
-                <img src="../../assets/img/bar.png" alt="c1">
+                <img src="../../taproom/assets/img/bar.png" alt="c1">
             </SplideSlide>
             <SplideSlide>
-                <img src="../../assets/img/barrels2.png" alt="c1">
+                <img src="../../taproom/assets/img/barrels2.png" alt="c1">
             </SplideSlide>
         </Splide>
     </section>
@@ -36,7 +36,7 @@ export default {
 </script>
 
 <style scoped>
-@import "../../assets/sass/style.css";
+@import "../../taproom/assets/sass/style.css";
 
 section {
     padding: 70px 17% 60px;

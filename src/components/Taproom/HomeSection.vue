@@ -1,12 +1,13 @@
 <template>
     <section class="home" id="home">
         <div class="home-text">
-            <p>Оренбург, ул. березка 22 <br>
-                Режим работы: пт - вс, 20:00 - 02:00
+            <p>Единая платформа для обучения
+              <br>и тестирования сотрудников рабочих
+              профессий посредством
             </p>
-            <h1>ТАПРУМ</h1>
-            <h5>При производстве медоварни <br>"Степь и ветер"</h5>
-            <a href="/catalog" class="btn">АССОРТИМЕНТ</a>
+            <h1>ПрофТестиум</h1>
+            <h5>VR-инструменты<br> симулирующих реальные ситуации в рамках конкретного предприятия.</h5>
+            <a href="/catalog" class="btn">Тарифы</a>
         </div>
     </section>
 </template>
@@ -20,7 +21,7 @@
 </script>
 
 <style scoped>
-@import "../../assets/sass/style.css";
+@import "../../taproom/assets/sass/style.css";
 
 section {
     padding: 70px 17% 60px;
@@ -30,7 +31,7 @@ section {
     position: relative;
     height: 100vh;
     width: 100%;
-    background-image: linear-gradient(to left, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)), url('../../assets/img/taproom.png');
+    background-image: linear-gradient(to left, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)), url('../../taproom/assets/img/taproom.png');
     background-size: cover;
     /*background-attachment: fixed;*/
     background-position: bottom center;

@@ -7,42 +7,42 @@
         <div class="feature-content">
             <div class="row">
                 <div class="row-img">
-                    <img src="../../assets/img/first.png" alt="nap1">
+                    <img src="../../taproom/assets/img/first.png" alt="nap1">
                 </div>
                 <h4>Моносорта</h4>
             </div>
 
             <div class="row">
                 <div class="row-img">
-                    <img src="../../assets/img/second.png" alt="nap2">
+                    <img src="../../taproom/assets/img/second.png" alt="nap2">
                 </div>
                 <h4>Традиционные</h4>
             </div>
 
             <div class="row">
                 <div class="row-img">
-                    <img src="../../assets/img/third.png" alt="nap3">
+                    <img src="../../taproom/assets/img/third.png" alt="nap3">
                 </div>
                 <h4>Составные</h4>
             </div>
 
             <div class="row">
                 <div class="row-img">
-                    <img src="../../assets/img/fouth.png" alt="nap4">
+                    <img src="../../taproom/assets/img/fouth.png" alt="nap4">
                 </div>
                 <h4>Боше</h4>
             </div>
 
             <div class="row">
                 <div class="row-img">
-                    <img src="../../assets/img/fifth.png" alt="nap5">
+                    <img src="../../taproom/assets/img/fifth.png" alt="nap5">
                 </div>
                 <h4>Смузи</h4>
             </div>
 
             <div class="row">
                 <div class="row-img">
-                    <img src="../../assets/img/sixth.png" alt="nap6">
+                    <img src="../../taproom/assets/img/sixth.png" alt="nap6">
                 </div>
                 <h4>Безалкогольные</h4>
             </div>
@@ -55,7 +55,7 @@
 </script>
 
 <style scoped>
-@import "../../assets/sass/style.css";
+@import "../../taproom/assets/sass/style.css";
 
 section {
     padding: 70px 17% 60px;

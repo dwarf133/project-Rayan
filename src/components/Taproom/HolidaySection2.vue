@@ -8,7 +8,7 @@
         </div>
         <div class="holiday">
             <div class="holiday-img">
-                <img src="../../assets/img/toilets.png" alt="toilets">
+                <img src="../../taproom/assets/img/toilets.png" alt="toilets">
             </div>
 
             <div class="holiday-text">
@@ -34,7 +34,7 @@
 </script>
 
 <style scoped>
-@import "../../assets/sass/style.css";
+@import "../../taproom/assets/sass/style.css";
 
 a  {
     color: #fff;

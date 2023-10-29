@@ -13,8 +13,8 @@
     </ul>
 
     <ul :class="[{'open': clickedMenu}, 'navbar']">
-      <li><a href="/#/login">Вход</a></li>
-      <li><a href="/#/login">Зарегистрировать новую школу</a></li>
+      <li><a href="http://localhost:8000/login">Вход</a></li>
+      <li><a href="http://localhost:8000/register">Зарегистрировать новую школу</a></li>
     </ul>
     <div class="bx bx-menu" id="menu-icon" v-on:click="clickedMenu = !clickedMenu"></div>
   </section>

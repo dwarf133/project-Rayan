@@ -2,7 +2,7 @@
     <section
         :class="[{'sticky': scrolled}, 'header']" v-on:scroll="handleScroll"
     >
-        <a href="#" class="logo">ТАПРУМ</a>
+        <a href="#" class="logo">профтестиум </a>
 
         <ul :class="[{'open': clickedMenu}, 'navbar']">
             <li><a href="/">На главную</a></li>

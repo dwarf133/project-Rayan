@@ -4,7 +4,7 @@
             <h2>Контакты</h2>
         </div>
         <div class="new-holiday-text">
-            <p>Оренбург, ул. Березка 22. Режим работы: пт - сб, 20:00 - 02:00</p>
+            <p>Оренбург, ул. Березка 62. Режим работы: пт - сб, 20:00 - 02:00</p>
         </div>
         <div class="holiday">
             <div class="holiday-img">
@@ -13,16 +13,16 @@
 
             <div class="holiday-text">
                 <div class="step-and-wind">
-                    <h5><a href="https://vk.com/stepiveter">Медоварня "Степь и Ветер" вконтакте</a></h5>
-                    <h5><a href="https://www.youtube.com/c/stepiveter">Медоварня "Степь и Ветер" на ютуб</a></h5>
-                    <h5><a href="https://t.me/stepiveter1">Медоварня "Степь и Ветер" в телеграм</a></h5>
-                    <h5><a href="https://www.instagram.com/stepiveter/">Медоварня "Степь и Ветер" в инсте</a></h5>
-                    <h5><a href="https://stepiveter.ru/">Медоварня "Степь и Ветер" на сайте</a></h5>
+                    <h5><a href="https://vk.com/stepiveter">Профтестиум вконтакте</a></h5>
+                    <h5><a href="https://www.youtube.com/c/stepiveter">Профтестиум на ютуб</a></h5>
+                    <h5><a href="https://t.me/stepiveter1">Профтестиум в телеграм</a></h5>
+                    <h5><a href="https://www.instagram.com/stepiveter/">Профтестиум в инсте</a></h5>
+                    <h5><a href="https://stepiveter.ru/">Профтестиум на сайте</a></h5>
                 </div>
                 <div class="taproom">
-                    <h5><a href="#">Тапрум вконтакте</a></h5>
-                    <h5><a href="#">Тапрум в телеграм</a></h5>
-                    <h5><a href="#">Тапрум в инсте</a></h5>
+                    <h5><a href="#">профтестиум  вконтакте</a></h5>
+                    <h5><a href="#">профтестиум  в телеграм</a></h5>
+                    <h5><a href="#">профтестиум  в инсте</a></h5>
                 </div>
             </div>
         </div>

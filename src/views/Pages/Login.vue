@@ -25,7 +25,7 @@
       <b-row class="justify-content-center">
         <b-col lg="5" md="7">
           <b-card no-body class="bg-secondary border-0 mb-0">
-            <b-card-header class="bg-transparent pb-5"  >
+            <b-card-header class="bg-transparent pb-5">
               <div class="text-muted text-center mt-2 mb-3"><small>Sign in with</small></div>
               <div class="btn-wrapper text-center">
                 <a href="#" class="btn btn-neutral btn-icon">
@@ -56,7 +56,7 @@
                   <base-input alternative
                               class="mb-3"
                               name="Password"
-                              :rules="{required: true, min: 6}"
+                              :rules="{required: true, min: 5}"
                               prepend-icon="ni ni-lock-circle-open"
                               type="password"
                               placeholder="Password"
@@ -85,20 +85,36 @@
   </div>
 </template>
 <script>
-  export default {
-    data() {
-      return {
-        model: {
-          email: '',
-          password: '',
-          rememberMe: false
-        }
-      };
-    },
-    methods: {
-      onSubmit() {
-        // this will be called only after form is valid. You can do api call here to login
-      }
+export default {
+  data() {
+    return {
+      model: {
+        email: '',
+        password: '',
+        rememberMe: false
+      },
+      token: '',
+    };
+  },
+  mounted() {
+    console.log('mounted')
+    let that = this
+    this.axios.get('http://gosling.loc:8000/token', {}).then((response) => {
+      that.token = response.data
+      console.log(that.token)
+    })
+  },
+  methods: {
+    onSubmit() {
+      console.log(this.token)
+      this.axios.post('http://gosling.loc:8000/login', {
+        '_token': this.token,
+        'email': 'santa@santa.com',
+        'password': 'santa',
+      }).then((response) => {
+        console.log(response)
+      })
     }
-  };
+  }
+};
 </script>

@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@splidejs/vue-splide": "^0.6.12",
+    "axios": "^1.6.0",
     "bootstrap": "4.3.1",
     "bootstrap-vue": "^2.5.0",
     "chart.js": "^2.9.3",
@@ -28,6 +29,7 @@
     "sweetalert2": "^9.5.4",
     "vee-validate": "^3.2.1",
     "vue": "^2.6.11",
+    "vue-axios": "^3.5.2",
     "vue-chartjs": "^3.5.0",
     "vue-clipboard2": "^0.3.0",
     "vue-flatpickr-component": "^8.1.2",

@@ -2,28 +2,28 @@
     <section class="footer" style="color: #ffa343;">
         <div class="footer-box">
             <h3>Контакты</h3>
-            <a href="tel:+79058481865">8 (905) 848-18-65</a>
-            <a>ИП Иванов Д. М.</a>
+            <a href="tel:+79058481865">8 (111) 111-11-11</a>
+            <a>ПРОФТЕСТИУМ</a>
             <a href="../../docs/oferta.pdf" style="color: #ffa343">Оферта</a>
         </div>
 
         <div class="footer-box">
-            <h3>Индивидуальный предприниматель Иванов Данила Михайлович </h3>
-            <a>ИНН: 560913216820</a>
-            <a>ОГРНИП: 32356 58000 30233</a>
+            <h3>Lorem ipsum dolor sit.</h3>
+            <a>ИНН: 11111111111</a>
+            <a>ОГРНИП: 11111 11111 11111</a>
         </div>
 
         <div class="footer-box">
-            <h3>Информация о способах<br> доставки</h3>
-            <a>Доставка осуществляется транспортной компанией СДЭК.<br>Стоимость доставки включена в цену товаров.</a>
+            <h3>Lorem ipsum dolor sit amet.</h3>
+            <a>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae, sed!</a>
         </div>
 
         <div class="footer-box">
             <h3>Social</h3>
             <div class="social">
-                <a href="https://www.instagram.com/stepiveter/"><i class="ri-instagram-fill"></i></a>
-                <a href="https://t.me/steppewindtaproom"><i class="ri-telegram-fill"></i></a>
-                <a href="https://www.youtube.com/c/stepiveter"><i class="ri-youtube-fill"></i></a>
+                <a href=""><i class="ri-instagram-fill"></i></a>
+                <a href=""><i class="ri-telegram-fill"></i></a>
+                <a href=""><i class="ri-youtube-fill"></i></a>
             </div>
         </div>
     </section>

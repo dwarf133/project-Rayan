@@ -9,22 +9,29 @@
 
         <div class="tour-content">
             <div class="box" @click="toCatalog">
-                <img src="../../taproom/assets/img/tshirt1.png" alt="t1">
-                <h6>Крутейшая футболка с единорогом</h6>
-                <h4>Футболки</h4>
+                <img src="../../taproom/assets/img/cat1.jpg" alt="t1">
+                <h6>Бесплатный</h6>
+                <h4>Ноль рублей</h4>
             </div>
 
             <div class="box" @click="toCatalog">
-                <img src="../../taproom/assets/img/tshirt2.png" alt="t2">
-                <h6>АйПиОу браслет</h6>
-                <h4>Браслет</h4>
+                <img src="../../taproom/assets/img/cat2.jpg" alt="t2">
+                <h6>Малый бизнес</h6>
+                <h4>Чуть больше рублей</h4>
             </div>
 
             <div class="box" @click="toCatalog">
-                <img src="../../taproom/assets/img/tshirt3.png" alt="t3">
-                <h6>Изогнутый стакан с единорожкой</h6>
-                <h4>Бокалы</h4>
+                <img src="../../taproom/assets/img/cat3.jpg" alt="t3">
+                <h6>Предприятие</h6>
+                <h4>Долары уже</h4>
             </div>
+
+          <div class="box" @click="toCatalog">
+            <img src="../../taproom/assets/img/cat4.jpg" alt="t4">
+            <h6>Корпорация</h6>
+            <h4>Много доларов</h4>
+          </div>
+
         </div>
 
         <div class="center-btn">

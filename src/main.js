@@ -17,11 +17,14 @@
 import Vue from 'vue';
 import DashboardPlugin from './plugins/dashboard-plugin';
 import App from './App.vue';
+import axios from 'axios'
+import VueAxios from 'vue-axios'
 
 // router setup
 import router from './routes/router';
 // plugin setup
 Vue.use(DashboardPlugin);
+Vue.use(VueAxios, axios)
 
 /* eslint-disable no-new */
 new Vue({

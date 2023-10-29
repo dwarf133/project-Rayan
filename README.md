@@ -2,7 +2,7 @@
 
 ## requirements
 
-- node 18
+- node 12
 
 ## installation
 
